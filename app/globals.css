@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-papier: #f6f1e7;
+  --color-encre: #1c1a17;
+  --color-brique: #c2391d;
+  --color-trait: #d9d1c0;
+  --font-titre: var(--font-fraunces), Georgia, serif;
+  --font-corps: var(--font-plex), system-ui, sans-serif;
+}
+
+body {
+  background: var(--color-papier);
+  color: var(--color-encre);
+  font-family: var(--font-corps);
+}
