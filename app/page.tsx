@@ -1,4 +1,4 @@
-const LIEN_PAIEMENT = "#tarif";
+const LIEN_PAIEMENT = "Touche Commit changes";
 
 export default function Accueil() {
   return (
