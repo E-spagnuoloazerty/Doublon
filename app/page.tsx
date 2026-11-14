@@ -1,4 +1,4 @@
-const LIEN_PAIEMENT = "Touche Commit changes";
+const LIEN_PAIEMENT = "https://buy.stripe.com/test_28E14g1vY1t34gTeWU5c400";
 
 export default function Accueil() {
   return (
